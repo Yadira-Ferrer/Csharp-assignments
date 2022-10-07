@@ -1,0 +1,15 @@
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\bin\Debug\net6.0\Sesion3.exe
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\bin\Debug\net6.0\Sesion3.deps.json
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\bin\Debug\net6.0\Sesion3.runtimeconfig.json
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\bin\Debug\net6.0\Sesion3.dll
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\bin\Debug\net6.0\Sesion3.pdb
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\obj\Debug\net6.0\Sesion3.csproj.AssemblyReference.cache
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\obj\Debug\net6.0\Sesion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\obj\Debug\net6.0\Sesion3.AssemblyInfoInputs.cache
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\obj\Debug\net6.0\Sesion3.AssemblyInfo.cs
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\obj\Debug\net6.0\Sesion3.csproj.CoreCompileInputs.cache
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\obj\Debug\net6.0\Sesion3.dll
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\obj\Debug\net6.0\refint\Sesion3.dll
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\obj\Debug\net6.0\Sesion3.pdb
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\obj\Debug\net6.0\Sesion3.genruntimeconfig.cache
+C:\Users\yyfm9\Desktop\Repositorios\Csharp-assignments\Sesion3\obj\Debug\net6.0\ref\Sesion3.dll
